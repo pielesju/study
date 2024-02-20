@@ -1,7 +1,5 @@
 # study
 
-![IU LOGO](iu_logo.svg)
-
 This repository contains all the files of my studies
 at the [IU International University of Applied Sciences](https://www.iu.de/).
 This repository is primarily used to self organisation, but you can
