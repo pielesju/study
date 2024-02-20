@@ -1,0 +1,11 @@
+{
+	"nodes":[
+		{"id":"e9a872f6213360c6","type":"text","text":"","x":-480,"y":-260,"width":250,"height":60},
+		{"id":"2694db0edc994301","type":"file","file":"mathematik/Beweise.md","x":-780,"y":-20,"width":680,"height":400},
+		{"id":"08441af5134a7f89","x":-565,"y":30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"40be808a3b6d2c35","x":-1240,"y":-380,"width":360,"height":630,"type":"file","file":"Excalidraw/Drawing 2024-02-20 10.46.31.excalidraw.md"}
+	],
+	"edges":[
+		{"id":"a594b1df123b3fac","fromNode":"2694db0edc994301","fromSide":"top","toNode":"e9a872f6213360c6","toSide":"bottom"}
+	]
+}
