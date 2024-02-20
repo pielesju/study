@@ -2,6 +2,8 @@
 
 This repository contains all the files of my studies
 at the [IU International University of Applied Sciences](https://www.iu.de/).
+This repository is primarily used to self organisation, but you can
+use this contents for inspiration or as a source of learning material for yourself.
 
 [B.Sc. Computer Science 180cp - Distance Learning](https://www.iu-fernstudium.de/bachelor/informatik/)
 
