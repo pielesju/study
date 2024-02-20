@@ -10,12 +10,16 @@ with [Obsidian](https://obsidian.md/).
 
 ---
 
-## Table of Contents
+basic informations:
+[module handbook](https://res.cloudinary.com/iubh/image/upload/v1659436732/15%20-%20Dokumente/Modulhandbuch/ba_informatik_fs-bait_de.pdf)
+[study plan](https://res.cloudinary.com/iugroup/image/upload/v1691394460/sap_ba_informatik_180_FS-BAIT_de_fs_2_ymee9i.pdf)
+
+---
+
+## Contents
 
 ### Books
 [Books i use and recommend](books.md)
 
 ### Modules
 List of all the [courses](modules/readme.md) i take.
-
-
